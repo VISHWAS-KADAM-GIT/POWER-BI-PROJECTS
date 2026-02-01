@@ -1,99 +1,69 @@
-# 📊 Power BI Dashboard Project
+# 📊 Power BI Interactive Dashboard
 
-## 📌 Project Overview
-This project showcases an **interactive Power BI dashboard** built to analyze and visualize key business metrics.  
-The dashboard transforms raw data into meaningful insights to support **data-driven decision making**.
+> Data → Insights → Decisions
+
+A modern **Power BI dashboard project** focused on transforming raw business data into **clear, interactive, and actionable insights** using industry-standard analytics practices.
+
+---
+
+## 🚀 Project Overview
+
+This project demonstrates an **end-to-end BI workflow**:
+- Data ingestion
+- Data cleaning & modeling
+- KPI creation using DAX
+- Interactive dashboard development
+
+Designed to showcase **real-world Power BI skills** for data analyst roles.
 
 ---
 
 ## 🎯 Objectives
-- Clean and transform raw data using Power Query  
-- Build insightful KPIs using DAX  
-- Create interactive and visually appealing dashboards  
-- Identify trends, patterns, and business insights  
+
+| Goal | Description |
+|----|------------|
+| Data Cleaning | Handle missing values, duplicates & inconsistencies |
+| Data Modeling | Build relationships using star schema |
+| KPI Design | Create business-focused metrics using DAX |
+| Visualization | Build interactive & intuitive dashboards |
+| Insights | Identify trends, gaps & opportunities |
 
 ---
 
 ## 🗂 Dataset Details
-- **Source:** CSV   
-- **Type:** Structured data  
-- **Records:** 10k+ rows  
+
+| Attribute | Value |
+|--------|------|
+| Source | CSV |
+| Type | Structured |
+| Records | 10,000+ |
+| Granularity | Transaction-level |
+| Domain | Business / Sales Analytics |
 
 ---
 
-## 🛠 Tools & Technologies
-- **Power BI Desktop**  
-- **Power Query** – Data cleaning & transformation  
-- **DAX** – Measures & calculated columns  
-- **Excel / CSV / SQL** – Data source  
+## 🛠 Tech Stack
+
+| Tool | Usage |
+|----|------|
+| **Power BI Desktop** | Dashboard & report building |
+| **Power Query** | Data cleaning & transformation |
+| **DAX** | Measures & calculated columns |
+| **Excel / CSV / SQL** | Data sources |
 
 ---
 
-## 🔧 Data Preparation
-- Removed duplicates and null values  
-- Standardized column names and formats  
-- Created calculated columns and measures  
-- Built relationships between tables  
+## 🔧 Data Preparation Pipeline
 
----
+```text
+Raw Data
+   ↓
+Power Query (Clean & Transform)
+   ↓
+Data Modeling (Relationships)
+   ↓
+DAX Measures & KPIs
+   ↓
+Interactive Dashboards
 
-## 📐 Key KPIs
-- Total Sales / Revenue  
-- Total Orders  
-- Average Rating  
-- Growth Percentage  
-- Online Order %  
-- Table Booking %  
-
-*(KPIs depend on project domain)*
-
----
-
-## 📊 Dashboard Pages
-### 1️⃣ Business Overview
-- KPI cards  
-- Trend analysis  
-- Category-wise performance  
-
-### 2️⃣ Detailed Analysis
-- Location-based insights  
-- Filters & slicers  
-- Comparative analysis  
-
-### 3️⃣ Dynamic Insights Page
-- Drill-through visuals  
-- Interactive charts  
-- User-driven exploration  
-
----
-
-## 🔍 Key Insights
-- Identified top-performing categories and cities  
-- Observed seasonal and demand trends  
-- Found performance gaps and improvement areas  
-
----
-
-## 📁 Project Files
-- `POWER-BI-PROJECT.pbix` – Power BI dashboard file  
-- `README.md` – Project documentation  
-
----
-
-## 🚀 Outcome
-- Clear visualization of complex data  
-- Improved business understanding  
-- Strong portfolio project for data analytics roles  
-
----
-
-## 👤 Author
-**Vishwas Kadam**  
-Aspiring Data Analyst  
-Skills: Power BI | SQL | Python | Excel | Data Analysis  
-
----
-
-## 📌 Disclaimer
-This project is created for **learning and portfolio purposes**.
 
