@@ -1,0 +1,156 @@
+🛒 BlinkIT Grocery Sales & Operations Dashboard
+
+Power BI | Retail & Quick Commerce Analytics
+
+🚀 Project Overview
+
+This project presents a Power BI dashboard built using BlinkIT grocery sales data, focused on converting raw transactional data into decision-ready business insights for retail and quick-commerce operations.
+
+Instead of basic reporting, the dashboard emphasizes category performance, outlet contribution, sales efficiency, and demand patterns, enabling stakeholders to make data-driven decisions related to inventory, merchandising, and outlet strategy.
+
+🖼️ Dashboard Preview
+
+(Add these images from your repository)
+
+Dashboard Page 1 – Sales Overview
+
+Dashboard Page 2 – Outlet & Product Analysis
+
+🎯 Business Objectives
+
+The dashboard is designed to:
+
+Analyze overall sales performance
+
+Identify high-performing and underperforming product categories
+
+Understand regional demand patterns (Tier 1 / Tier 2 / Tier 3)
+
+Evaluate outlet type contribution
+
+Support inventory planning and revenue optimization
+
+📊 Key KPIs & Metrics
+
+The dashboard tracks the following metrics:
+
+Total Sales
+
+Category-wise Sales Performance
+
+Sales by Outlet Location Type (Tier-wise)
+
+Sales Contribution by Outlet Type
+
+Average Sales per Item (Sales Efficiency)
+
+Average Item Rating
+
+Average Item Weight
+
+Distinct Item Types & Distinct Items
+
+Each KPI is aligned with a specific business question to ensure relevance and clarity.
+
+📈 Dashboard Pages & Insights
+🔹 Page 1: Sales Overview & Category Performance
+
+Focuses on high-level business performance:
+
+Top revenue-generating categories
+
+Sales distribution across outlet location tiers
+
+Sales efficiency analysis (average sales per item)
+
+Executive KPI snapshot
+
+Insights Delivered:
+
+Revenue concentration across categories
+
+Regional demand behavior
+
+Performance comparison beyond sales volume
+
+🔹 Page 2: Outlet & Product Analysis
+
+Focuses on operational and product-level insights:
+
+Outlet type contribution analysis
+
+Product mix analysis using ratings and attributes
+
+Store format performance comparison
+
+Insights Delivered:
+
+Store format effectiveness
+
+Product preference trends
+
+Opportunities for inventory and outlet optimization
+
+🧠 Analytics Approach
+
+This project follows a structured analytics workflow:
+
+Define the business question → choose the right KPIs → design visuals that support decisions
+
+Each visual is intentionally designed to answer a clear operational or business question, ensuring the dashboard remains intuitive and actionable.
+
+🛠️ Tech Stack
+
+Power BI – Data modeling, DAX calculations, and dashboard development
+
+Microsoft Excel – Data cleaning, validation, and initial exploration
+
+DAX – KPI creation and analytical calculations
+
+📂 Dataset Information
+
+The dataset includes grocery sales and outlet data with fields such as:
+
+Item type, identifier, and attributes
+
+Outlet type, size, and location tier
+
+Sales values
+
+Ratings, item weight, and visibility
+
+📁 Project Structure
+
+POWER-BI-PROJECT-3
+
+BLINKIT.pbix
+
+BlinkIT Grocery Data.xlsx
+
+DASHBOARD IMAGE.png
+
+DASHBOARD IMAGE-2.png
+
+🌱 Use Cases
+
+Retail Analytics
+
+Quick Commerce (Q-Commerce) Analytics
+
+Sales & Operations Analytics
+
+Inventory & Merchandising Strategy
+
+📌 Key Learnings
+
+Designing dashboards for business decisions, not just reporting
+
+Translating retail data into actionable insights
+
+Combining efficiency metrics with volume-based metrics
+
+Structuring dashboards for executive and analyst audiences
+
+📜 License
+
+This project is licensed under the MIT License
